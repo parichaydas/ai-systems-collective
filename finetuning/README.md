@@ -19,4 +19,4 @@ This folder holds assets and instructions for model finetuning experiments.
 - `scripts/` — training/evaluation scripts
 
 ----
-Update this README with specific commands, scripts, and examples for your finetuning workflow.
+
